@@ -1,0 +1,8 @@
+numpy
+nibabel
+pandas
+scipy
+scikit-image
+fslpy
+torch>=1.13.1
+pycox
