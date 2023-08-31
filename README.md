@@ -10,6 +10,9 @@ Then download the model weights from [here](https://drive.google.com/drive/folde
 (NB: I will need to approve your access after you clicked the link).
 It can be stored at any location you chose, as long as you know the path.
 
+Download some additional data from [here](https://drive.google.com/drive/folders/1xUZ8MuiDCIMoiA4WhgTor7me-mvPSQL7?usp=sharing).
+Save the folder in the `data/` directory.
+
 * usage:
     - need to put the absolute paths of all the nifti images to a single master
     file and supply the path of that master file to the `--img_paths` flag.
